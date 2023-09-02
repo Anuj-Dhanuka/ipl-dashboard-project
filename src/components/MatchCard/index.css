@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.match-card-bg-container {
+  background-color: #0f172a;
+  height: 550px;
+  width: 350px;
+  margin: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12px;
+  margin-left: 0px;
+}
+
+.match-card-opponent-image {
+  height: 200px;
+  margin-top: 16px;
+}
+
+.competing-team-title-container {
+  width: 75%;
+  height: 130px;
+}
+
+.match-card-title {
+  font-family: Bree Serif;
+  color: #ffffff;
+  margin-top: 16px;
+
+  text-align: center;
+  font-size: 32px;
+  font-weight: lighter;
+}
+
+.match-card-winner {
+  font-family: Bree Serif;
+  color: #ffffff;
+  margin-top: 16px;
+}
+
+.match-card-loss {
+  color: #e31a1a;
+  font-family: Bree Serif;
+  margin-top: 36px;
+  font-size: 36px;
+}
+
+.match-card-win {
+  color: #18ed66;
+  font-family: Bree Serif;
+  margin-top: 36px;
+  font-size: 36px;
+}
